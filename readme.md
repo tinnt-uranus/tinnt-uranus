@@ -1,6 +1,4 @@
-# 👨‍💻 CTO at Redbrick | Driving Innovation and Technology Solutions for Business Growth
-
-👋 Hi, I'm Kelvin
+# 👋 Hi, I'm Kelvin
 
 I'm a **Full-Stack Developer** passionate about **Web3**, **cloud**, and building **user-centric solutions**. I specialize in technical solutions, architecture design, project management, and writing **reusable, problem-solving code**.
 
